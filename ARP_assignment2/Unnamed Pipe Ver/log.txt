@@ -1,0 +1,14 @@
+
+Analysis
+================================================================
+
+Number of G1 Cycle: 500038
+Number of G2 Cycle: 499962
+Number of Messages Received: 1000000
+Offset delay in G1 Cycle(usec): 3573455293898
+Offset delay in G2 Cycle(usec): 3573455341971
+Average delay(latency) between generation and reception of messages(usec): 235
+Estimated bandwidth between G and R(bit/s): 68085 
+
+================================================================
+
